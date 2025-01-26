@@ -295,16 +295,35 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://medium.com/@pratichi3/overfitting-and-underfitting-in-machine-learning-8694f926a90f",
+      title: "Overfitting in Machine learning Models",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "OVERFITTING occurs when our model is very complex , also the performance of model is good on training dataset but poor on test dataset."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://medium.com/@pratichi3/exploring-dimensionality-reduction-techniques-a-comparative-analysis-using-the-kaggle-digit-fcc33738a75e",
+      title: "A Comparative Analysis Using the Kaggle Digit Recognizer Dataset​",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "Dimensionality reduction is crucial in machine learning, particularly when dealing with high-dimensional datasets."
+    },
+    {
+      url: "https://medium.com/@pratichi3/web-usage-mining-for-understanding-user-navigation-patterns-in-ecommerce-7bc6147d5184",
+      title: "Web Usage Mining for Understanding User Navigation Patterns in eCommerce",
+      description:
+        "In today’s eCommerce landscape, understanding user behavior is crucial for enhancing customer experiences and increasing conversion rates. In my recent project, Web Usage Mining for Understanding User Navigation Patterns in eCommerce, I explored how data mining techniques can offer valuable insights into how users navigate online stores, helping businesses provide personalized recommendations and improve engagement."
+    },
+    {
+      url: "https://medium.com/@pratichi3/understanding-the-basics-of-list-in-python-172e1f3e5772",
+      title: "Understanding the basics of List in Python",
+      description:
+        "The “List” is one of the built-in collection data types in the Python programming language."
+    },
+    
+    {
+      url: "https://medium.com/@pratichi3/data-preprocessing-column-normalization-cc1adc068e7d",
+      title: "Data Preprocessing: Column Normalization",
+      description:
+        "Normalizing the columns eliminates discrepancies caused by different measurement scales, transforming all values into a standardized range of [0, 1]."
     }
   ],
   display: true // Set false to hide this section, defaults to true
